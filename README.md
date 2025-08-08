@@ -3,7 +3,7 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=07leonam&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=07leonama&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=07leonam&layout=compact&theme=tokyonight)
 
   
   
