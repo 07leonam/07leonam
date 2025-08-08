@@ -1,9 +1,9 @@
 <h1 align="center">Olá! Me chamo Leonam Veggi 👋</h1>
 
-###🎓 Formado como Tecnico em Informática.
+###🎓 Formado como Tecnico em Informática.<br>
 ###📚 Atualmente cursando Gestão de Tecnologia da Informação.
 
-
+##
 ### 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=07leonam&show_icons=true&theme=tokyonight)
