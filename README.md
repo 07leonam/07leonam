@@ -2,7 +2,6 @@
 
 ###🎓 Formado como Tecnico em Informática.<br>
 ###📚 Atualmente cursando Gestão de Tecnologia da Informação.
-
 ##
 ### 📊 Estatísticas do GitHub
 
